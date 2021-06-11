@@ -1,14 +1,42 @@
+
 # Test Fizz Buzz
 
-## Run
 
-```sh
-node fizzbuzz
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/acalderono/fizzbuzz.git
 ```
 
-### Test
+Go to the project directory
 
-```sh
-npm install
-npm run test
+```bash
+  cd fizzbuzz
 ```
+
+Start
+
+```bash
+  node fizzbuzz
+```
+
+Test
+```bash
+ npm install
+ npm run test
+```
+## Feedback
+
+If you have any feedback, please reach out to us at hola@acalderon.dev
+
+
+  
+## Authors
+
+- [@acalderono](https://www.twitter.com/acalderono)
+
+  
